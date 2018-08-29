@@ -1,0 +1,9 @@
+{
+  "name": "mernCommentBox",
+  "version": "1.0.0",
+  "description": "reviewing MERN stack",
+  "main": "index.js",
+  "repository": "https://github.com/williamtsanders/mernCommentBoxReview.git",
+  "author": "williamtsanders",
+  "license": "MIT"
+}
